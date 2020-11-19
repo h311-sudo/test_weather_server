@@ -1,0 +1,38 @@
+h1{
+    color:rgb(48, 102, 202);
+}
+
+
+header a{
+    color: #888888;
+    text-decoration: none;
+    margin-right: 16px;
+    min-height:100vh;
+}
+body{
+    font-family: serif;
+    color: #494646;
+    font-size: large;
+    display: flex;
+    flex-direction:column;
+
+}
+footer{
+    border-top:1px solid rgb(228, 225, 225);
+    padding:16px 0;
+}
+.hell{
+    flex-grow:1;
+}
+
+input{
+    border:1px solid rgb(182, 179, 179);
+    padding:8px;
+}
+button{
+    cursor:pointer;
+    border:1px solid #888888;
+    background: #888888;
+    padding:8px;
+    color:white;
+}
